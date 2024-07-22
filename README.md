@@ -1,3 +1,7 @@
+## About this fork
+
+This fork is not being maintained, the latest commits on the original repo broke my highlight groups and made this unusable so I just reverted to some random commit until my HL groups where back as they were.
+
 ![github-nvim-theme](https://github.com/projekt0n/github-nvim-theme/assets/24286590/d687ee93-43e0-46a5-a69f-a5a9d260c704)
 
 [![Neovim](https://github.com/projekt0n/github-nvim-theme/actions/workflows/neovim.yml/badge.svg)](https://github.com/projekt0n/github-nvim-theme/actions/workflows/neovim.yml)
